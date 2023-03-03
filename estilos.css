@@ -23,3 +23,7 @@ body img {
     margin-left: 350px;
     margin-bottom: 15px;
 }
+
+body p a {
+    text-decoration: none;
+}
