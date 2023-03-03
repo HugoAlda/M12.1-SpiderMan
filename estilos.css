@@ -1,0 +1,25 @@
+* {
+    margin: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body p {
+    font-size: 24px;
+}
+
+body h2 {
+    margin-bottom: -30px;
+    font-size: 50px
+}
+
+body iframe {
+    margin-top: 0px;
+    margin-left: 650px;
+    margin-bottom: 0px;
+}
+
+body img {
+    margin-top: 0px;
+    margin-left: 560px;
+    margin-bottom: 15px;
+}
